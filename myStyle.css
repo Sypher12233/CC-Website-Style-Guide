@@ -1,0 +1,127 @@
+/* Universal Elements */
+h1{
+  margin: 30px 150px;
+  font-weight: 700;
+  font-size: 26px;
+  font-family: 'Nunito Sans' ,sans-serif;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 20px;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+
+h3, h4{
+  margin-left: 10px;
+  font-weight: 400;
+  font-family: Poppins;
+}
+
+li{
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+header{
+  margin: 30px 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.box{
+  border: 2px solid lightgrey;
+  margin: 10px 150px;
+  box-sizing: 100px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.bold{
+  font-weight: bold;
+}
+/* colorBoxes */
+
+.colorBoxes container{
+  display: inline-block;
+  width: 350px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.colorBoxes p{
+  font-family: Roboto, sans-serif;
+  position: inherit;
+  font-weight: 300;
+  font-size: 15px;
+  text-align: center;
+  padding: 20px;
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+#coolBlue p{
+  margin-left: 10px;
+  background-color: #2d5dcc;
+}
+
+#beige p{
+  margin-left: 10px;
+  background-color: #efd9ca;
+}
+
+#pink p{
+  background-color: #d957d9;
+}
+
+#mintGreen p{
+  background-color: #4fe0b0;
+}
+
+
+/* Font Box */
+
+.scpBox, .nunitoSansBox, .poppinsBox{
+  width: 500px;
+  display: inline-block;
+  font-weight: 400px;
+}
+
+/* fonts */
+.scpBox{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.nunitoSansBox{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppinsBox{
+  font-family: Poppins, sans-serif;
+}
+
+.scpBox p{
+  padding: 10px 0px;
+  margin: 10px;
+}
+
+.nunitoSansBox p{
+  padding: 10px 0px;
+  margin: 10px;
+}
+
+.poppinsBox p{
+  padding: 10px 0px;
+  margin: 10px;
+}
+
+.mainPageHeading{
+  margin-left: 10px;
+}
+
+/* Footer */
